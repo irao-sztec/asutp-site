@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SSL",
+				"SSLCerificateFile"
+			],
+			[
+				"FTP",
+				"FTPClient"
+			],
+			[
+				"log",
+				"logMessages"
+			],
+			[
+				"mess",
+				"message_array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 533.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/dev/asutp"
+	],
+	"file_history":
+	[
+		"/etc/hosts",
+		"/etc/apache2/sites-available/dev-ssl.conf",
+		"/etc/apache2/apache2.conf",
+		"/var/www/dev/om650-trash/public/styles/colors.css",
+		"/media/gautama/Transcend/JetBrains/ActivateCode.txt",
+		"/home/gautama/test/get-files.php",
+		"/home/gautama/test/ping_servers.php",
+		"/home/gautama/Документы/om650/mdb-to-csv.sh",
+		"/home/gautama/test/encoding-convert.sh",
+		"/home/gautama/Документы/om650/u0_2018.mdb.csv",
+		"/home/gautama/Документы/om650/u1_2018.mdb.csv",
+		"/home/gautama/Документы/om650/u2_2018.mdb.csv",
+		"/home/gautama/test/info.md",
+		"/home/gautama/test/info.html",
+		"/home/gautama/Документы/asutp/documentation/three-tier.md",
+		"/home/gautama/Документы/asutp/documentation/systems-architecture.md",
+		"/home/gautama/Документы/asutp/documentation/systems-architecture.html",
+		"/home/gautama/Документы/asutp/documentation/three-tier.html",
+		"/etc/apache2/sites-available/dev.conf",
+		"/etc/apache2/sites-available/sockets.conf",
+		"/home/gautama/test/testftp.php",
+		"/home/gautama/test/PROTSS_001.1",
+		"/home/gautama/test/PROTSS_002.1",
+		"/home/gautama/ftp.sh",
+		"/home/gautama/testftp.sh",
+		"/home/gautama/test.sh",
+		"/home/ftpuser/PROTSS_001.1",
+		"/home/gautama/Загрузки/CoreUI-Free-Bootstrap-Admin-Template-master/Static_Full_Project_GULP/src/js/app.js",
+		"/home/gautama/Загрузки/CoreUI-Free-Bootstrap-Admin-Template-master/Static_Full_Project_GULP/src/index.html",
+		"/etc/vsftpd.conf",
+		"/home/gautama/Документы/Psych/цитаты.mdown",
+		"/home/gautama/Загрузки/Внимание!.txt",
+		"/home/gautama/Загрузки/AJAX_Full_Project_GULP",
+		"/etc/apache2/sites-available/frameworks.conf",
+		"/etc/apache2/sites-available/app.conf",
+		"/home/gautama/.config/sublime-text-3/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+		"/home/gautama/.config/sublime-text-3/Packages/User/SBSCompare.sublime-settings",
+		"/etc/apache2/sites-available/app/conf",
+		"/etc/apache2/sites-available/frameworks",
+		"/var/www/app/.htaccess",
+		"/opt/google/chrome/chrome",
+		"/etc/apache2/ports.conf",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/etc/apache2/mods-available/ssl.conf",
+		"/etc/apache2/sites-enabled/000-default.conf",
+		"/etc/apache2/sites-enabled/000-default",
+		"/home/gautama/Документы/Psych/Цитаты.html",
+		"/home/gautama/Документы/Psych/цитаты.html",
+		"/home/gautama/Документы/Psych/Test.mdown",
+		"/home/gautama/Документы/Psych/Test.html",
+		"/var/www/dev/asutp/.htaccess",
+		"/var/www/dev/asutp/composer.json",
+		"/var/www/dev/asutp/app/models/UserModel.php",
+		"/var/www/dev/asutp/app/controllers/UserController.php",
+		"/var/www/dev/asutp/app/controllers/MainController.php",
+		"/var/www/dev/asutp/app/models/MainModel.php",
+		"/var/www/dev/asutp/app/controllers/AppController.php",
+		"/var/www/dev/asutp/app/views/Main/index.php",
+		"/var/www/dev/asutp/app/views/layouts/default.php",
+		"/var/www/dev/asutp/config/config.php",
+		"/var/www/dev/asutp/config/config_db.php",
+		"/var/www/dev/asutp/vendor/framework/libs/Functions.php",
+		"/var/www/dev/asutp/vendor/framework/libs/Cache.php",
+		"/var/www/dev/asutp/vendor/framework/core/App.php",
+		"/var/www/dev/asutp/vendor/framework/core/Db.php",
+		"/var/www/dev/asutp/vendor/framework/core/ErrorHandler.php",
+		"/var/www/dev/asutp/vendor/framework/core/Registry.php",
+		"/var/www/dev/asutp/vendor/framework/core/Router.php",
+		"/var/www/dev/asutp/vendor/framework/core/TSingletone.php",
+		"/var/www/dev/asutp/vendor/framework/core/base/Controller.php",
+		"/var/www/dev/asutp/vendor/framework/core/base/Model.php",
+		"/var/www/dev/asutp/vendor/framework/core/base/View.php",
+		"/var/www/dev/asutp/public/index.php",
+		"/var/www/dev/asutp/public/.htaccess",
+		"/var/www/html/phpinfo.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n\n<VirtualHost asutp.dev:80>\n    ServerAdmin admin@dev\n    ServerName asutp.dev\n    ServerAlias asutp.dev\n    DocumentRoot /var/www/dev/asutp\n\n    <Directory /var/www/dev/asutp/>\n        Options Indexes FollowSymLinks\n        AllowOverride All\n        Order allow,deny\n        Allow from All\n        Require all granted\n    </Directory>\n\n    ErrorLog ${APACHE_LOG_DIR}/error.log\n    CustomLog ${APACHE_LOG_DIR}/access.log combined\n</VirtualHost>",
+			"\n\n### **Концептуальный подход**",
+			"\n### **Физическая архитектура**",
+			"]:",
+			"звёзд",
+			"dev",
+			"();\n",
+			"56",
+			"guest",
+			"ssl",
+			"SSL",
+			"dev",
+			"###"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"звёз",
+			"sockets",
+			"app",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"project": "asutp-site.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "name": "framework/framework",
+    "description": "ASUTP Site",
+    "authors": [
+        {
+            "name": "Lashchinskiy Artyom",
+            "email": "lashchinskiy.artyom@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23",
+        "phpmailer/phpmailer": "^6.0",
+        "gabordemooij/redbean": "dev-master",
+        "erusev/parsedown-extra": "^0.7.1",
+        "vlucas/valitron": "^1.4",
+        "walkor/workerman": "^3.5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "framework\\": "vendor\\framework",
+            "app\\": "app"
+        }
+    }
+}
